@@ -7,14 +7,8 @@ Bare-metal, register-level examples for the STM32F103C8T6 ("Blue Pill"). No HAL,
 - **Board:** Blue Pill (STM32F103C8T6, Cortex-M3, up to 72 MHz, 64 KB Flash, 20 KB RAM)
 - **Programmer:** ST-Link v2 (or v2-1, J-Link, CMSIS-DAP) over SWD
 
-SWD wiring:
+  <img width="750" height="500" alt="Image" src="https://github.com/user-attachments/assets/87e84f1b-9ba1-4170-8df7-5eba58a85806" />
 
-| ST-Link pin | Blue Pill pin |
-|-------------|---------------|
-| SWDIO       | PA13          |
-| SWCLK       | PA14          |
-| GND         | GND           |
-| 3V3         | 3V3           |
 
 ## Dependencies
 
